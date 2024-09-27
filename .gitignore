@@ -1,3 +1,4 @@
 node_modules
 .env
 .DS_Store
+eas-tests-example/expo-env.d.ts
